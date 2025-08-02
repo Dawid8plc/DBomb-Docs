@@ -1,0 +1,6 @@
+[book]
+authors = ["Dawid8plc"]
+language = "en"
+multilingual = false
+src = "src"
+title = "DBomb 0.7.0 documentation"
